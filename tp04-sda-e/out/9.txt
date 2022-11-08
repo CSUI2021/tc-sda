@@ -1,0 +1,84 @@
+Username Not Found
+0
+11
+Please Login
+0
+Username Not Found
+Register Successful
+11
+1
+Your Account Has Been Deleted
+11
+You Have Not Been Logged In
+11
+Register Successful
+You Have Not Been Logged In
+Incorrect Password
+Please Login
+You Have Not Been Logged In
+Your Account Has Been Deleted
+Register Successful
+Your Account Has Been Deleted
+Username Not Found
+0
+11
+0
+Register Successful
+1
+Incorrect Password
+You Have Not Been Logged In
+1
+Username Not Found
+You Have Not Been Logged In
+Username Not Found
+1
+You Have Not Been Logged In
+Please Login
+Username Not Found
+Register Successful
+You Have Not Been Logged In
+11
+You Have Not Been Logged In
+Please Login
+You Have Not Been Logged In
+11
+2
+Username Already Exist
+Username Not Found
+Username Is Registered
+Username Already Exist
+2
+Register Successful
+11
+Please Login
+Register Successful
+You Have Not Been Logged In
+11
+4
+Register Successful
+5
+Please Login
+11
+Username Is Registered
+5
+11
+5
+Please Login
+Please Login
+Username Already Exist
+Username Not Found
+11
+Register Successful
+11
+Username Already Exist
+Username Not Found
+Please Login
+Username Not Found
+Register Successful
+11
+You Have Not Been Logged In
+Username Already Exist
+7
+Please Login
+11
+Username Is Registered

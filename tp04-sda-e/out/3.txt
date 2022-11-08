@@ -1,0 +1,38 @@
+Username Not Found
+You Have Not Been Logged In
+0
+Username Not Found
+You Have Not Been Logged In
+Username Not Found
+0
+Register Successful
+1
+You Have Not Been Logged In
+Username Is Registered
+Register Successful
+Username Not Found
+You Have Not Been Logged In
+Username Already Exist
+11
+Username Already Exist
+Username Not Found
+Username Not Found
+Please Login
+Username Is Registered
+2
+Username Is Registered
+2
+You Have Not Been Logged In
+Username Is Registered
+Please Login
+Incorrect Password
+Username Not Found
+You Have Not Been Logged In
+11
+Username Not Found
+Username Not Found
+Please Login
+You Have Not Been Logged In
+Username Not Found
+Please Login
+Login Successful

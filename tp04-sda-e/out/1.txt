@@ -1,0 +1,16 @@
+Register Successful
+Username Not Found
+Username Already Exist
+Username Not Found
+Username Is Registered
+Username Not Found
+1
+Username Not Found
+Incorrect Password
+Please Login
+11
+Username Not Found
+You Have Not Been Logged In
+Username Not Found
+Username Not Found
+Username Not Found

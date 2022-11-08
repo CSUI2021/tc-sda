@@ -1,0 +1,51 @@
+0
+Username Not Found
+Username Not Found
+Username Not Found
+11
+Username Not Found
+You Have Not Been Logged In
+Username Not Found
+0
+11
+Register Successful
+Login Successful
+Username Is Registered
+You Have Been Logged Out
+Username Not Found
+Username Already Exist
+Login Successful
+You Have Been Logged Out
+Username Not Found
+Please Login
+Please Login
+1
+Username Not Found
+You Have Not Been Logged In
+Register Successful
+Login Successful
+2
+wTNBNoDZ 19fe8e83e4fcdd30470386c24bd65466
+Username Already Exist
+Username Is Registered
+Incorrect Password
+11
+You Have Been Logged Out
+Username Not Found
+2
+Register Successful
+11
+3
+Register Successful
+4
+Your Account Has Been Deleted
+Username Already Exist
+You Have Not Been Logged In
+Username Already Exist
+Incorrect Password
+Username Already Exist
+Please Login
+Username Not Found
+3
+You Have Not Been Logged In
+Please Login
