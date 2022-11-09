@@ -1,8 +1,10 @@
 Register Successful
-Incorrect Password
-Register Successful
 Please Login
-Incorrect Password
-11
+Your Account Has Been Deleted
+Username Not Found
 You Have Not Been Logged In
-Register Successful
+0
+Please Login
+Username Not Found
+You Have Not Been Logged In
+Username Not Found
