@@ -24,3 +24,5 @@ Lakukan hal berikut pada terminal VSCode.
 ```
 py .\hapus.py > hapus-in.txt; cat .\hapus-in.txt | java .\src\TP2.java > hapus-out.txt; code -d .\hapus-in.txt .\hapus-out.txt
 ```
+
+> Perintah di atas dilakukan pada sistem operasi windows. Untuk sistem operasi lain, ya cari sendiri caranya...
